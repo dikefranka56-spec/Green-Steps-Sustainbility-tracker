@@ -1,2 +1,16 @@
-# Green-Steps-Sustainbility-tracker
-GreenSteps is a sustainability habit-tracking application that encourages users to build environmentally conscious daily routines. Users can track habits such as reducing waste, saving water, and conserving energy while monitoring their daily progress through interactive statistics and completion indicators.
+# GreenSteps — Sustainability Habit Tracker
+
+A responsive frontend project that encourages practical sustainability habits.
+
+## Features
+- Six interactive daily habits
+- Live completion percentage and progress bar
+- Accessible completion buttons
+- Browser-local progress persistence with `localStorage`
+- Responsive cards and dashboard
+
+## Run
+Open `index.html` in a modern browser. No dependencies required.
+
+## Note
+This is a habit-tracking demo. It does not calculate, verify, or claim measured carbon savings.
